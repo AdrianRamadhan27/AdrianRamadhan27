@@ -1,4 +1,7 @@
 # Hello! I'm Raden Mohamad Adrian
+![f58eac9c5ceef513249dd58cbe9abe90](https://github.com/user-attachments/assets/0c684c57-3ffe-4eb2-a2ec-d01687653d63)
+
+
 I am a 7th-semester Computer Science student at the University of Indonesia. I have a deep passion for Artificial Intelligence and Data Science. I also have strong skills in front-end and back-end development, mobile development, and have dabbled in cybersecurity.
 
 
