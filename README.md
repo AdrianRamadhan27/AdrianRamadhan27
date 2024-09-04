@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello! I'm Raden Mohamad Adrian:
 I am a 7th-semester Computer Science student at the University of Indonesia. I have a deep passion for Artificial Intelligence and Data Science. I also have strong skills in front-end and back-end development, mobile development, and have dabbled in cybersecurity.
 
 
